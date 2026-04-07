@@ -82,19 +82,6 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into fast, sca
 ✦ Project management with Notion & Jira
 ✦ Version control and collaborative workflows with Git
 ```
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Matias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatiasAC110508&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasAC110508&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 <div align="center">
