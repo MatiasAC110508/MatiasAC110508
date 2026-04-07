@@ -37,7 +37,14 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into fast, sca
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -53,7 +60,10 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into fast, sca
 ```
 ✦ Component-driven UI development with React & Next.js
 ✦ RESTful API design and integration with Node.js & Express
+✦ Backend development with Python & Django
 ✦ Type-safe development with TypeScript
+✦ Relational databases: MySQL & SQL query design
+✦ NoSQL databases: MongoDB schema design & aggregations
 ✦ Responsive & accessible web design
 ✦ State management and performance optimization
 ✦ Version control and collaborative workflows with Git
