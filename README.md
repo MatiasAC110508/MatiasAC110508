@@ -74,7 +74,7 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into fast, sca
 ✦ Type-safe development with TypeScript
 ✦ Relational databases: MySQL, MariaDB, PostgreSQL & SQL query design
 ✦ NoSQL databases: MongoDB schema design & aggregations
-✦ AI integration: OpenAI API, LangChain, prompt engineering & LLM-powered features
+✦ AI integration: OpenAI API, prompt engineering & LLM-powered features
 ✦ Building intelligent apps by embedding AI models into real-world codebases
 ✦ Responsive & accessible web design
 ✦ State management and performance optimization
