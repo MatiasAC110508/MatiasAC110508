@@ -50,8 +50,7 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into fast, sca
 
 ### 🤖 AI & Integration
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat-square&logoColor=white)
 
 ### Tools & Workflow
