@@ -2,7 +2,7 @@
 
 # Hey there, I'm Matias 👋
 
-### Full Stack Developer · JavaScript Enthusiast · Builder of Cool Things
+### Full Stack Developer · TypeScript Enthusiast · Builder of Cool Things
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-6366f1?style=for-the-badge)](https://my-portfolio-sepia-beta-txi08dclgt.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Full Stack Developer** who loves turning ideas into fast, scalable, and beautiful web experiences. I thrive in the JavaScript ecosystem — from crafting pixel-perfect UIs to architecting robust backend APIs.
+I'm a passionate **Full Stack Developer** who loves turning ideas into fast, scalable, and beautiful web experiences. I thrive in the TypeScript ecosystem — from crafting pixel-perfect UIs to architecting robust backend APIs.
 
 - 🚀 Currently building things with **Next.js** and **Node.js**
 - 🎯 Focused on writing clean, maintainable, and performant code
@@ -33,8 +33,11 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into fast, sca
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
 
 ### Backend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -62,6 +65,7 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into fast, sca
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![pip Python](https://img.shields.io/badge/pip_Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
