@@ -66,15 +66,6 @@ Desarrollo y normalización de bases de datos relacionales complejas para entorn
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
-
----
-
 ### 🎧 Mientras codeo...
 Probablemente estoy escuchando algo de Rock o Bachata en Spotify mientras estructuro el próximo componente en React o soluciono un bug de hidratación.
 
