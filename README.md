@@ -1,96 +1,86 @@
 <div align="center">
 
-# Hey there, I'm Matias 👋
+# ¡Hola! Soy Matias 👋
 
-### Full Stack Developer · TypeScript Enthusiast · Builder of Cool Things
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Analyst;Especialista+en+Next.js+%26+TypeScript;Integrador+de+Modelos+de+IA;Arquitecto+de+Bases+de+Datos" alt="Typing SVG" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-6366f1?style=for-the-badge)](https://my-portfolio-sepia-beta-txi08dclgt.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matiasaguirrecorrea@gmail.com)
+<p align="center">
+  Transformando lógica de negocio compleja en interfaces de alto impacto. 
+  <br />
+  Apasionado por el ecosistema de React, el diseño de bases de datos relacionales y la integración de IA de vanguardia.
+</p>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+### 🚀 Sobre mí
 
-I'm a passionate **Full Stack Developer** who loves turning ideas into fast, scalable, and beautiful web experiences. I thrive in the TypeScript ecosystem — from crafting pixel-perfect UIs to architecting robust backend APIs.
+Soy un desarrollador Full-Stack y analista enfocado en crear productos digitales escalables y de nivel premium. Mi enfoque se centra en construir puentes sólidos entre experiencias de usuario inmersivas (Front-End) y sistemas de procesamiento de datos robustos (Back-End).
 
-- 🚀 Currently building things with **Next.js** and **Node.js**
-- 🎯 Focused on writing clean, maintainable, and performant code
-- 🌱 Always learning something new (and probably breaking things in the process)
-- 💬 Ask me about **React**, **TypeScript**, or **REST API design**
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-
-### Backend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-### 🤖 AI & Integration
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat-square&logoColor=white)
-
-### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![pip Python](https://img.shields.io/badge/pip_Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- 🧠 **El núcleo de mi stack:** Construyo aplicaciones de extremo a extremo utilizando **Next.js** y **TypeScript**, garantizando un tipado estricto, arquitecturas limpias y un rendimiento óptimo.
+- 🤖 **Conectando con el futuro:** Me especializo en la integración de Inteligencia Artificial en el flujo de desarrollo. Construyo pipelines que conectan clientes web con motores de IA utilizando **Transformers y bases de datos vectoriales (Embeddings)** para traducciones, análisis y flujos de trabajo inteligentes.
+- 🗄️ **Pasión por los datos:** Disfruto diseñando esquemas de bases de datos normalizados (PostgreSQL, MySQL, MongoDB) y gestionándolos con herramientas modernas como **Prisma ORM** en entornos Serverless (como Neon).
+- 💡 **Disciplina técnica y personal:** Aplico la misma constancia con la que levanto 200kg en el gimnasio a la optimización de consultas SQL y refactorización de código. La disciplina no se negocia.
 
 ---
 
-## 💡 Core Skills
-
-```
-✦ Component-driven UI development with React & Next.js
-✦ RESTful API design and integration with Node.js & Express
-✦ Backend development with Python & Django
-✦ Type-safe development with TypeScript
-✦ Relational databases: MySQL, MariaDB, PostgreSQL & SQL query design
-✦ NoSQL databases: MongoDB schema design & aggregations
-✦ AI integration: OpenAI API, prompt engineering & LLM-powered features
-✦ Building intelligent apps by embedding AI models into real-world codebases
-✦ Responsive & accessible web design
-✦ State management and performance optimization
-✦ Project management with Notion & Jira
-✦ Version control and collaborative workflows with Git
-```
----
+### 💻 Stack Tecnológico
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+**Front-End & UI** <br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-⭐ **If you find something useful, give it a star!**
+**Back-End & Data** <br>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 </div>
+
+---
+
+### 🛠️ Proyectos Destacados
+
+#### 🎓 Lummia Platform (Streaming Educacional)
+Plataforma de streaming diseñada con una paleta vibrante en verde neón para retener la atención del usuario. 
+* **Rol:** Desarrollo Full-Stack.
+* **Logros:** Mejora sustancial en el diseño de la UI/UX de la página de inicio (SPA), implementación del sistema de navegación e integración robusta de APIs y conectividad del backend para la gestión de usuarios.
+
+#### 🏥 Sistemas de Gestión (Arquitectura de Datos)
+Desarrollo y normalización de bases de datos relacionales complejas para entornos críticos.
+* **Hospital Vida Sana:** Diseño de un modelo normalizado para la gestión integral de pacientes, médicos, citas y diagnósticos.
+* **Sistema Universitario:** Creación de bases de datos con ejecución de JOINs complejos para relacionar alumnos, profesores y cursos.
+
+#### 🤖 Integración IA: Embedding & Transformer Translator
+* **Logros:** Desarrollo de un traductor y procesador semántico utilizando arquitecturas de Transformers y Embeddings, conectando interfaces limpias en Next.js con capacidades de procesamiento de lenguaje natural en el backend.
+
+---
+
+### 📊 Mis Estadísticas en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+### 🎧 Mientras codeo...
+Probablemente estoy escuchando algo de Rock o Bachata en Spotify mientras estructuro el próximo componente en React o soluciono un bug de hidratación.
+
+### 📫 ¿Hablamos?
+
+Si buscas a alguien que entienda el ciclo de vida completo del software, que sepa diseñar esquemas de bases de datos que no colapsen en producción, y que pueda integrar la magia de la IA en el frontend, construyamos algo increíble.
+
+<a href="mailto:tu-correo@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
