@@ -1,9 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://adaviduribe.sirv.com/csharp_dotnet_ai_animated.svg" alt="Matias - Fullstack Developer & AI Specialist" width="100%">
-</p>
-
 # 🚀 Matias | Full-Stack Developer & Analyst
 
 <a href="https://git.io/typing-svg">
